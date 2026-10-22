@@ -21,12 +21,13 @@
 ---
 
 ## 🚀 Projects
-🔹 **Student Performance Prediction System**  
-- Built ML model to predict student scores  
-- Achieved **R² score: 0.80**  
-- Tech: Python, Scikit-learn, Streamlit  
+-  Data Analyst agent
+-  Student Performance Prediction System  
+-  Built ML model to predict student scores  
+-  Achieved R² score: 0.80  
+-  Tech: Python, Scikit-learn, Streamlit  
 
-🔹 **Snake Game in C++**  
+🔹 Snake Game in C++  
 - Console-based game using loops & arrays  
 
 ---
